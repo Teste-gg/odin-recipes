@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 249, 139);
+    color: white;
+}
+
+.main{
+    background-color: orange;
+    width: 400px;
+    margin: auto;
+    padding: 8px;
+}
+
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#receitas{
+    background-color: rgb(255, 209, 56);
+    padding: 8px;
+    list-style-type: none;
+}
+
+#receitas li{
+    margin-bottom: 5px;
+}
