@@ -1,0 +1,39 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 249, 139);
+    color: white;
+}
+
+#home{
+    background-color: orange;
+    padding: 5px;
+    display: inline-block;
+    margin-left: 681px;
+    margin-bottom: 10px;
+}
+
+.main{
+    background-color: orange;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+.main img{
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.title{
+    text-align: center;
+}
+
+.step {
+    background-color: rgb(255, 209, 56);
+    padding: 8px 16px;
+    margin-bottom: 10px;
+}
+
+#steps li{
+    margin-bottom: 8px;
+}
